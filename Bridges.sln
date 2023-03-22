@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridges.Logic", "Bridges.Logic\Bridges.Logic.csproj", "{9D7114C5-E068-4C91-BB34-AA18910850AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridges.UI.Console", "Bridges.UI.Console\Bridges.UI.Console.csproj", "{DB4AA96D-27EE-4F28-90DD-4ABE0540E252}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D7114C5-E068-4C91-BB34-AA18910850AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D7114C5-E068-4C91-BB34-AA18910850AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D7114C5-E068-4C91-BB34-AA18910850AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D7114C5-E068-4C91-BB34-AA18910850AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB4AA96D-27EE-4F28-90DD-4ABE0540E252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB4AA96D-27EE-4F28-90DD-4ABE0540E252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB4AA96D-27EE-4F28-90DD-4ABE0540E252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB4AA96D-27EE-4F28-90DD-4ABE0540E252}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E65CD58E-0165-4837-B4B8-C69B9ACE9C96}
+	EndGlobalSection
+EndGlobal
